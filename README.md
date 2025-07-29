@@ -8,7 +8,7 @@ A Python-based system for multilingual document retrieval and question answering
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/multilingualRAG.git
+   git clone https://github.com/ekramasif/multilingualRAG.git
    cd multilingualRAG
    ```
 
